@@ -2,7 +2,7 @@ This is the readMe file for the Dungeon game:
 
 There are the following files:
 
-Ex45.py
+Main.py
 battle.py
 rooms.py
 character.py
@@ -11,7 +11,7 @@ armor.py
 weapons.py
 enemyRandomizer.py
 
-Ex45.py is the "main" for the game.  It imports all other files and then
+Main.py is the "main" for the game.  It imports all other files and then
 	calls the character and rooms files.
 	
 battle.py is the file that takes in the character and enemy files and creates
